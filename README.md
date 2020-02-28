@@ -22,6 +22,10 @@ I append here the help I wrote in french, because of fun 😁.
 
 _______________________
 
+Je considère que tu as téléchargé le programme pour windows ici:
+https://drive.google.com/open?id=1fLMSJY-H2IysMihaw0lYJorqzZaW-jG5, si tu es sous linux eh ben ça veut dire que tu es suffisement malin pour pouvoir compiler et exécuter le code 😉.
+
+
 Hey hey !
 
 RandMus est, comme vous le savez sûrement, un programme qui joue de la musique, et cela aléatoirement : il
