@@ -5,6 +5,8 @@
 > /!\ WARNING
 >  
 > The code is amazingly ugly. It is on github for convenience purposes.
+>
+> Please don't kill me, the code is on a single file because I didn't manadge to set Code::Blocks...
 
 ____________________
 
